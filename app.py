@@ -25,8 +25,7 @@ def construct_query(iter_obj: Iterator, cmd: Optional[str], value: Any) -> Itera
     if cmd == "filter":
         return filter(lambda x: value in x, result)
     if cmd == "map":
-        value = int(value)
-        return map(lambda x: x.split(" ")[value], result)
+        return map(lambda x: x.split(" ")[int(value)], result)
     if cmd == "unique":
         return iter(set(result))
     if cmd == "sort":
