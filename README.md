@@ -8,7 +8,7 @@ https://skyengpublic.notion.site/23-a06a0349dcb64432925701fce74d881f
 
 ## ДЗ 24 
 
-### ссылка с описанием домашнего задания к уроку 23
+### ссылка с описанием домашнего задания к уроку 24
 https://skyengpublic.notion.site/24-dc8c7ad7cb7842699e2b826acac39de8
 
 
